@@ -51,7 +51,6 @@ I'm a passionate **High-Performance Computing (HPC)** and **DevOps Engineer** wi
 🔧 **Tech:** SLURM, Python, Bash, Linux  
 📝 **Description:** Designed an HPC-based pipeline to process and analyze stock market data in parallel using SLURM. Automated job scheduling and resource allocation for efficient computation.  
 🔗 **GitHub:** [Stock Market Analysis](https://github.com/chaitali2102/stock-market-slurm)  
-🎥 **Demo:** ![Demo GIF](https://github.com/chaitali2102/chaitali2102/blob/main/assets/stock-market-demo.gif)
 
 ---
 
@@ -60,17 +59,10 @@ I'm a passionate **High-Performance Computing (HPC)** and **DevOps Engineer** wi
 🔧 **Tech:** Python, Scikit-learn, Pandas, NumPy  
 📝 **Description:** Developed a fraud detection system using ML models. Applied feature engineering techniques like PCA and evaluated models using precision, recall, and AUC-ROC metrics.  
 🔗 **GitHub:** [Fraud Detection](https://github.com/chaitali2102/fraud-detection)  
-🎥 **Demo:** ![Demo GIF](https://github.com/chaitali2102/chaitali2102/blob/main/assets/fraud-detection-demo.gif)
 
 ---
 
-## 📊 GitHub Stats
 
-![Chaitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitali2102&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitali2102&layout=compact&theme=radical&hide_border=true)
-
----
 
 ## 🌱 Currently Learning
 - Advanced SLURM configurations for HPC environments.  
