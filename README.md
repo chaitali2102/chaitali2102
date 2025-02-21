@@ -1,4 +1,4 @@
-# Hi, I'm Jane Doe 👋
+# Hi, Chaitali Narayane 👋
 
 I'm a full-stack developer passionate about building scalable web applications and contributing to open source.
 
