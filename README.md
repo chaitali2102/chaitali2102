@@ -1,60 +1,66 @@
 # Hi, I'm Chaitali Narayane 👋
 
-### HPC and DevOps Enthusiast
-📍 Pune, Maharashtra, India  
-📞 +91 9284015504  
-📧 narayanechaitali03@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/2104) | [GitHub](https://github.com/chaitali2102)
+### 🚀 HPC and DevOps Enthusiast | 🌍 Pune, India  
+📧 **Email:** narayanechaitali03@gmail.com  
+📞 **Phone:** +91 9284015504  
+🔗 **LinkedIn:** [linkedin.com/in/2104](https://linkedin.com/in/2104)  
+🐱 **GitHub:** [github.com/chaitali2102](https://github.com/chaitali2102)
 
 ---
 
-## 🚀 About Me
-I'm an aspiring **High-Performance Computing (HPC)** and **DevOps Engineer** with expertise in SLURM-based job scheduling, cloud computing (AWS), and containerization (Docker, Kubernetes). Passionate about optimizing performance in high-computing environments and building scalable solutions.
+## 👩‍💻 About Me
+I'm a passionate **High-Performance Computing (HPC)** and **DevOps Engineer** with a love for optimizing systems and building scalable solutions. I enjoy working with cutting-edge technologies like SLURM, AWS, Docker, and Kubernetes to solve complex problems. When I'm not coding, you'll find me exploring automation tools or learning something new!
 
 ---
 
-## 🔧 Technical Skills
-- **Cloud Computing:** AWS (VPC, EC2, S3, Lambda)
-- **Containerization & Orchestration:** Docker, Kubernetes
-- **CI/CD & Automation:** Jenkins, Git, Bash Scripting
-- **High-Performance Computing:** SLURM, Parallel Computing
-- **Operating Systems:** Linux (Ubuntu)
-- **Programming Languages:** Python
+## 🛠️ Tech Stack
+
+### **Cloud Computing**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+### **Containerization & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **CI/CD & Automation**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **High-Performance Computing**
+![SLURM](https://img.shields.io/badge/SLURM-0078D7?style=for-the-badge&logo=slurm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🎓 Education
-- **Post Graduate Diploma in HPC System Administration**  
-  *Centre for Development of Advanced Computing (C-DAC), ACTS Pune*  
-  *Aug. 2024 – Sept. 2025*
+## 🚀 Featured Projects
 
-- **Bachelor of Engineering in Computer Science**  
-  *K. K. Wagh Institute of Engineering Education and Research, Nashik*  
-  *CGPA: 7.92 | Aug. 2019 – July 2023*
-
----
-
-## 💼 Experience
-### **Machine Learning and AI Internship**  
-*Cognifront Pvt. Ltd, Nashik | Jan 2022 – Feb 2022*  
-- Worked on **Credit Card Fraud Detection** using ML techniques to classify fraudulent transactions.  
-- Implemented and evaluated multiple ML models to improve fraud detection accuracy.  
-- Developed data preprocessing pipelines to handle class imbalance and optimize feature selection.
-
----
-
-## 🛠️ Projects
 ### **Stock Market Analysis Using SLURM**  
-*SLURM, Python, Bash, Linux | March 2024*  
-- Designed and implemented an HPC-based pipeline to process and analyze stock market data in parallel using SLURM.  
-- Automated job scheduling, resource allocation, and task execution using batch scripts.  
-- Developed custom SLURM job submission scripts for efficient data preprocessing, computation, and visualization.
+📅 *March 2024*  
+🔧 **Tech:** SLURM, Python, Bash, Linux  
+📝 **Description:** Designed an HPC-based pipeline to process and analyze stock market data in parallel using SLURM. Automated job scheduling and resource allocation for efficient computation.  
+🔗 **GitHub:** [Stock Market Analysis](https://github.com/chaitali2102/stock-market-slurm)
+
+---
 
 ### **Credit Card Fraud Detection Using Machine Learning**  
-*Python | Jan 2022 – Feb 2022*  
-- Developed a fraud detection system using machine learning models trained on an anonymized real-world dataset.  
-- Applied feature engineering techniques such as PCA and data normalization to improve model accuracy.  
-- Evaluated model performance using precision, recall, F1-score, and AUC-ROC metrics.
+📅 *Jan 2022 – Feb 2022*  
+🔧 **Tech:** Python, Scikit-learn, Pandas, NumPy  
+📝 **Description:** Developed a fraud detection system using ML models. Applied feature engineering techniques like PCA and evaluated models using precision, recall, and AUC-ROC metrics.  
+🔗 **GitHub:** [Fraud Detection](https://github.com/chaitali2102/fraud-detection)
+
+---
+
+## 📊 GitHub Stats
+
+![Chaitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitali2102&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitali2102&layout=compact&theme=radical)
 
 ---
 
@@ -73,4 +79,4 @@ I'm an aspiring **High-Performance Computing (HPC)** and **DevOps Engineer** wit
 ---
 
 ## ⚡ Fun Fact
-I love automating repetitive tasks to save time and improve efficiency!
+I once automated my entire morning routine using Bash scripts! ☕️
