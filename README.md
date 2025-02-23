@@ -47,7 +47,7 @@ I'm a passionate **High-Performance Computing (HPC)** and **DevOps Engineer** wi
 ## 🚀 Featured Projects
 
 ### **Stock Market Analysis Using SLURM**  
-📅 *March 2024*  
+📅 *Jan 2025*  
 🔧 **Tech:** SLURM, Python, Bash, Linux  
 📝 **Description:** Designed an HPC-based pipeline to process and analyze stock market data in parallel using SLURM. Automated job scheduling and resource allocation for efficient computation.  
 🔗 **GitHub:** [Stock Market Analysis](https://github.com/chaitali2102/stock-market-slurm)  
